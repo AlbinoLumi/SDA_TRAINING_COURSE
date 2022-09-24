@@ -8,7 +8,8 @@ public class ClientMain {
         Fish myFish = (Fish) animal;
         myFish.swim();
         myFish.breath();
-        myFish.jump();
+     
+
 
 
     }
