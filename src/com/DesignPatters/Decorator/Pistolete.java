@@ -1,4 +1,4 @@
-package com.Decorator;
+package com.DesignPatters.Decorator;
 
 public class Pistolete implements Arme{
     @Override

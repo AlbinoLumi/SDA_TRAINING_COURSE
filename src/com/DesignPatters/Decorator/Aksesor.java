@@ -1,4 +1,4 @@
-package com.Decorator;
+package com.DesignPatters.Decorator;
 
 public abstract class Aksesor implements Arme{
 

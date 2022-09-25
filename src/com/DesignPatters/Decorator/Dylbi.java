@@ -1,4 +1,4 @@
-package com.Decorator;
+package com.DesignPatters.Decorator;
 
 public class Dylbi extends Aksesor{
     public Dylbi(Arme arme){

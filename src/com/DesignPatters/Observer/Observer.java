@@ -1,2 +1,5 @@
-package com.DesignPatters.Observer;public interface Observer {
+package com.DesignPatters.Observer;
+
+public interface Observer {
+     void notifyObserver();
 }
