@@ -1,6 +1,6 @@
 package com.JavaAdvancedCodingTasks;
 
-public class Parcel implements ParcelValidator{
+public class Parcel implements Validator{
 
     private Integer xLength;
     private Integer yLength;

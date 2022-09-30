@@ -13,7 +13,7 @@ public class Task3 {
     public static void main(String[] args) {
         HashMap<String, Integer> hashMap = new HashMap<>();
         hashMap.put("Albino", 29);
-        hashMap.put("Eriselda", 20);
+        hashMap.put("John", 20);
 
         afishoMap(hashMap);
     }
